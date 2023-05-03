@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/03-clear-ui-state/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/04-filter-items/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/05-add-items-localstorage/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/06-display-items-localstorage/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/07-remove-items-localstorage/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/08-set-edit-mode/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/09-update-item-reset-state/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/08-shopping-list-project/10-prevent-duplicate-items/shopping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript-sandbox-final/11-flixx-app-project/11-search-pagination/flixx-app" vcs="Git" />
+  </component>
+</project>
